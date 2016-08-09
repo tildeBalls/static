@@ -1,0 +1,9 @@
+body {
+  background-color: #778899;
+}
+
+#introText {
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
